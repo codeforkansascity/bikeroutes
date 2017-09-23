@@ -4,6 +4,7 @@
 This project will create a mechanism for cyclists to help identify safe and efficient bike routes 
 and make them available in an existing or new digital tool.
 
+Good approach to reporting street designs, which create issues for safe biking: http://wcc.crankfoot.xyz/facility-of-the-month/January2017.htm
 
 Bicycling:
 * reduces road congestion, air pollution, and noise pollution
